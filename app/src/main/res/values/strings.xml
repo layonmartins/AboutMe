@@ -1,5 +1,22 @@
 <resources>
-    <string name="app_name">AboutMe</string>
+    <string name="app_name">About Me</string>
     <string name="name">Layon Martins</string>
     <string name="yellow_star">Yellos star</string>
+    <string name="bio">Lorem ipsum dolor sit amet,
+        \n consectetur adipiscing elit,
+        \n sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        \n Ut enim ad minim veniam,
+        \n quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        \n Duis aute irure dolor in reprehenderit in voluptate
+        \n velit esse cillum dolore eu fugiat nulla pariatur.
+        \n Excepteur sint occaecat cupidatat non proident,
+        \n sunt in culpa qui officia deserunt mollit anim id est laborum.
+        \n consectetur adipiscing elit,
+        \n sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        \n Ut enim ad minim veniam,
+        \n quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        \n Duis aute irure dolor in reprehenderit in voluptate
+        \n velit esse cillum dolore eu fugiat nulla pariatur.
+        \n Excepteur sint occaecat cupidatat non proident,
+        \n sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
 </resources>
