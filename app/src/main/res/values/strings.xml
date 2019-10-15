@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">About Me</string>
-    <string name="name">Layon Martins</string>
     <string name="what_is_your_nickname">What is your nickname?</string>
     <string name="done">Done</string>
     <string name="yellow_star">Yellos star</string>
